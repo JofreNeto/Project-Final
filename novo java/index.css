@@ -35,9 +35,9 @@ h1{
   color: #df9faa;
   margin: auto;
   -webkit-text-stroke: 2px #df9faa;
-  text-stroke: 2px #df9faa;
+  text-shadow: 2px #df9faa;
   -webkit-text-fill-color: transparent;
-  text-fill-color: transparent;
+  border-inline-color: transparent;
   color: transparent;
   background-color: aliceblue;
   width: 30%;
@@ -288,9 +288,9 @@ h1{
   h1{
     font-size: 9vw;
     -webkit-text-stroke: 2px transparent;
-    text-stroke: 2px transparent;
+    text-shadow: 2px transparent;
     -webkit-text-fill-color: #ffeba7;
-    text-fill-color: #ffeba7;
+    text-emphasis-color: #ffeba7;
     color: #ffeba7;
   }
   .nav ul li a{
